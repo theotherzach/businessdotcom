@@ -1,0 +1,19 @@
+{
+  "name": "businessdotcom",
+  "version": "0.0.0",
+  "authors": [
+    "Zach <briggszj@gmail.com>"
+  ],
+  "description": "business!",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "businessdotcom-register": "git@github.com:theotherzach/businessdotcom-register.git"
+  }
+}
