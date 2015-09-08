@@ -8,6 +8,7 @@ group :development, :test do
   gem 'sqlite3'
 end
 
+gem 'redis'
 gem 'puma'
 group :production do
   gem 'pg'
