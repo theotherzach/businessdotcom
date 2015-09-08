@@ -12,6 +12,7 @@
 /db/*.sqlite3-journal
 /bower_components
 /node_modules
+.env
 
 # Ignore all logfiles and tempfiles.
 /log/*
